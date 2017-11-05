@@ -1,0 +1,13 @@
+html {background-image: url("../../Images/Background.png");margin: auto;background-attachment: fixed;}
+body {background-color: #bbb;font-family: serif;margin: auto;border: double black;width: 60%;}
+table{width:100%;}
+table, th, td {border: 1px solid black;border-collapse: collapse;text-align: center;vertical-align: center;border-spacing: 5px;font-family: serif;}
+td {width: 50%;}
+.player {width: 40%;overflow:auto;text-align: center;padding:10px;margin:auto;border-radius:20px;color:white;font-family: Sans-Serif;display: block;}
+#table {background-color:gray;color: white;}
+#div1 {width: 40%;margin:auto;}
+#number {width: 90%;overflow: auto;text-align: center;padding: 10px;margin: 0 auto;border-radius:20px;color: white;font-family: Sans-Serif;display: block;background-color:gray;border-style: solid;border-width: 1px;border-color: black;}
+#rand_num{background-color:red;}
+#max_num{background-color:blue;}
+#ave_num{background-color:yellow;color:black;}
+#reroll_num{background-color:purple;}
